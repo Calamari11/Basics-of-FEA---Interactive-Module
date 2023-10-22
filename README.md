@@ -23,7 +23,7 @@ This course aims to be as interactive as possible and we encourage users to do s
   
   ### Finding Displacements
   
-  ### Interactive Example###
+  ### Interactive Example
 
 # Part 2
 
