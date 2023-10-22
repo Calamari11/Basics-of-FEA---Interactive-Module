@@ -7,15 +7,15 @@ Contents
 
 Part 1
 
-What is FEA
-1D Bar Element
-Finding [k] Using the Energy Method
-Bar Element Example
-  Finding [K] & {F}
-  Assembly
-  Applying Boundary Conditions
-  Finding Displacements
-  Interactive Example
+##What is FEA
+##1D Bar Element
+##Finding [k] Using the Energy Method
+##Bar Element Example
+  ###Finding [K] & {F}
+  ###Assembly
+  ###Applying Boundary Conditions
+  ###Finding Displacements
+  ###Interactive Example
 
 Part 2
 
