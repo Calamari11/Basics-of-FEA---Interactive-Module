@@ -1,5 +1,7 @@
 Basics of FEA - Interactive Module
 
+Link to Binder: https://mybinder.org/v2/gh/Calamari11/Basics-of-FEA---Interactive-Module/HEAD
+
 The following is an introductory but hopefully still comprehensive course on finite element analysis (FEA). 
 This course aims to be as interactive as possible and we encourage users to do so.
 
@@ -79,6 +81,3 @@ This course aims to be as interactive as possible and we encourage users to do s
     - 2 Lagrange Multipliers
     - 3 Penalty Method
 - Conclusion
-
-
-https://mybinder.org/v2/gh/Calamari11/Basics-of-FEA---Interactive-Module/HEAD
