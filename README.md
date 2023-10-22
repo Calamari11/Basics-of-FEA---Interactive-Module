@@ -30,7 +30,8 @@ This course aims to be as interactive as possible and we encourage users to do s
 - Transformation
     - Transformation Matrix
     - Transforming [k]
-    - Truss Example \n
+    - Truss Example
+      
               - Forming {f}=[K]{d}
               - Applying Boundary Conditions & Solving
               - Calculating Stresses
@@ -48,12 +49,12 @@ This course aims to be as interactive as possible and we encourage users to do s
     - Frame Element Stiffness Matrix
     - Frame Element Transformation
     - Frame Element Example
-          - Modelling Problem
-          - Finding Local Stiffness Matrices
-          - Assembling Global Stiffness Matrix
-          - Finding Global Force Vector
-          - Applying Boundary Conditions & Solving
-          - Calculating Reactions & Stresses  
+      -     Modelling Problem
+      -     Finding Local Stiffness Matrices
+      -     Assembling Global Stiffness Matrix
+      -     Finding Global Force Vector
+      -     Applying Boundary Conditions & Solving
+      -     Calculating Reactions & Stresses  
 
 # Part 4
 
