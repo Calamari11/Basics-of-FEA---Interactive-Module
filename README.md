@@ -1,3 +1,3 @@
 Basics of FEA - Interactive Module
 
-https://mybinder.org/v2/gh/Calamari11/Interactive-FEA-Course/9b419838ed8c5f3bf4403babb1827860a032861d?urlpath=lab%2Ftree%2FTest1.ipynb
+https://mybinder.org/v2/gh/Calamari11/Basics-of-FEA---Interactive-Module/HEAD?labpath=FEA_Module_%28JupyterNotebook%29.ipynb
