@@ -30,7 +30,7 @@ This course aims to be as interactive as possible and we encourage users to do s
 - Transformation
     - Transformation Matrix
     - Transforming [k]
-    - Truss Example
+    - Truss Example \n
               - Forming {f}=[K]{d}
               - Applying Boundary Conditions & Solving
               - Calculating Stresses
